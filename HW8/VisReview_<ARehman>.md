@@ -13,3 +13,9 @@ the two black colors (representing Ubers and OVerUsed in the legend) also the ye
 ### Quality of The Plot:
 
 All the information is nicely presented in one single graphics which would otherwise take saveral plots to be conveyed properly.
+
+
+# FBB 
+you make good points but you are not including the plot in the readme as req  uested (and you are not splitting the revie into clarity aesthetics and honesty, but you do touch on all)
+
+85%
